@@ -1,0 +1,79 @@
+{
+    "author": "Michael Krenn",
+    "dependencies": {
+        "pebble-clay": "^1.0.3"
+    },
+    "keywords": [],
+    "name": "umpireclock",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "UmpireClock (American Football)",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "VibesEnabled",
+            "VibesOnNotificationsEnabled",
+            "VibesOnTimerExpiredPatternIndex",
+            "VibesOnButtonPressedPatternIndex",
+            "VibesOnButtonStartsTimeoutDefaultTimerPatternIndex",
+            "VibesOnButtonStartsTimeoutShortTimerPatternIndex",
+            "VibesOnButtonStartsIntermissionTimerPatternIndex",
+            "Notification_1_Second",
+            "Notification_1_OnTimeoutDefaultTimerEnabled",
+            "Notification_1_OnTimeoutShortTimerEnabled",
+            "Notification_1_OnIntermissionTimerEnabled",
+            "Notification_1_VibePatternIndex",
+            "Notification_1_StateMessage",
+            "Notification_2_Second",
+            "Notification_2_OnTimeoutDefaultTimerEnabled",
+            "Notification_2_OnTimeoutShortTimerEnabled",
+            "Notification_2_OnIntermissionTimerEnabled",
+            "Notification_2_VibePatternIndex",
+            "Notification_2_StateMessage",
+            "Notification_3_Second",
+            "Notification_3_OnTimeoutDefaultTimerEnabled",
+            "Notification_3_OnTimeoutShortTimerEnabled",
+            "Notification_3_OnIntermissionTimerEnabled",
+            "Notification_3_VibePatternIndex",
+            "Notification_3_StateMessage"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/football_uc_48x48_transparent.png",
+                    "name": "IMAGE_APP_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/football_uc_144x144_transparent.png",
+                    "name": "IMAGE_APP_ICON_BIG",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/football_25x25_bw.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_MENU_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "5bbc45d1-b65b-41bc-90be-62b898911913",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
