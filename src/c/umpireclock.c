@@ -113,6 +113,7 @@ static void onSelectLongClick(ClickRecognizerRef recognizer, void *context) {
 			timer.stateMessage = getStateMessageVibesOnButtonPressedOff();
 		}
 		text_layer_set_text(layerState, timer.stateMessage);
+		vibrate(getOnButtonPressedVibePattern());
 	} else {
 		setTimer(&TIMER_STANDBY);
 	}
