@@ -48,10 +48,12 @@ Stops 65" timeout countdown (new state: *TO STOPPED*)
 
 ### 30" TO RUNNING / 30" TO EXPIRED / 30" TO STOPPED
 The 35 second countdown works the same way as described for the 65 second countdown.
+
 ![30sec TO RUNNING](doc/TOshort_running.png "30sec TO RUNNING")
 
 ### 1' IM RUNNING / 1' IM EXPIRED / 1' IM STOPPED
 The 60 second countdown works the same way as described for the 65 second countdown.
+
 ![IM RUNNING](doc/IM_running.png "IM RUNNING")
 
 ## Notifications
