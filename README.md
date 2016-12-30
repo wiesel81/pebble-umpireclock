@@ -59,7 +59,7 @@ The 60 second countdown works the same way as described for the 65 second countd
 ## Notifications
 At least up to 3 notifications can be configured via smartphone. The following notification is set by default:
 
-### BALL READY? (*1x short vibe*)
+### 10 TILL READY! (*1x short vibe*)
 When the timer reads *10*, the state message changes from *TIMEOUT RUNNING*, *30" TO RUNNING" or *1' IM RUNNING* to *10" TILLL READY!* and a notification (one short vibration) is sent.
 
 ## Settings
