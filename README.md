@@ -7,7 +7,7 @@ With this watchapp it is possible to measure the timeouts (even a 30-second time
 
 Pressing the up-button starts the 65-second countdown, measuring the interval from the beginning of the timeout to the ball has to be declared ready for play (the remaining 25 seconds are job of the playclock operator), giving a vibration signal as confirmation.  
 Pressing the up-button long works in the same manner except the countdown starts at 35 seconds to measure a 30-second timeout.  
-Pressing the down-button starts the 60-second countdown, measuring the 1-minute intermission from the ball is declared dead after a score or at the the end of the 1st/3rd quarter to the ball has to be declared ready for play, giving a vibration signal as confirmation. 
+Pressing the down-button starts the 60-second countdown, measuring the 1-minute intermission from the ball is declared dead after a score or at the the end of the 1st/3rd quarter to the ball has to be declared ready for play, giving a vibration signal as confirmation.   
 3 notifications can be configured individually. Per default the umpireclock sends a vibration signal when 10 seconds left (notify teams) and, of course, when the timer expires.
 
 ## How it works
