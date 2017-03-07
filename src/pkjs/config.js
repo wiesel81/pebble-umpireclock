@@ -1,7 +1,7 @@
 module.exports = [
   {
     "type": "heading",
-    "defaultValue": "PLAYCLOCK Configuration",
+    "defaultValue": "UMPIRECLOCK Configuration",
   },
   {
     "type": "section",
