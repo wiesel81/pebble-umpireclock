@@ -72,7 +72,7 @@ von Michael Krenn, American Football Schiedsrichter in Österreich.
 
 Uhr für American Football Schiedsrichter, die am Feld als Umpire für die Zeitnehmung verantwortlich sind, basierend auf den NCAA Rules 2016.
 
-Mit dieser Watchapp ist es möglich, Timeouts (auch 30-Sekunden-Timeouts) und 1-Minuten-Unterbrechungen nach Scores und zwischen den Vierteln jeder Halbzeit zu stoppen, ohne zu oft auf die Uhr zu sehen und Vorgänge am Spielfeld zu verpassen. Die Uhr funktioniert ohne Verbindung zum Handy, trotzdem die meisten Einstellungen wie Benachrichtigungen und Vibrationsmuster via Handy veränderbar sind, wenn eine Verbindung besteht.
+Mit dieser Watchapp ist es möglich, Timeouts (auch 30-Sekunden-Timeouts) und 1-Minuten-Unterbrechungen nach Scores und zwischen den Vierteln jeder Halbzeit zu stoppen, ohne auf die Uhr zu sehen und Vorgänge am Spielfeld zu verpassen. Die Uhr funktioniert ohne Verbindung zum Handy, trotzdem die meisten Einstellungen wie Benachrichtigungen und Vibrationsmuster via Handy veränderbar sind, wenn eine Verbindung besteht.
 
 Den oberen Knopf zu drücken statet den 65-Sekunden Countdown, um das Intervall vom Beginn des Timeouts bis zur Ballfreigabe zu messen (die übrigen 25 Sekunden sind Aufgabe des PlayClock-Verantwortlichen), was mit einem Vibrationssignal bestätigt wird.
 Den oberen Knopf länger zu drücken führt zu dem selben Ergebnis, allerdings startet der Countdown bei 35 Sekunden, um ein 30-Sekunden-Timeout zu messen.
