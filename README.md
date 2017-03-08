@@ -132,5 +132,5 @@ Bis zu 3 Benachrichtigungen können am Handy konfiguriert werden. Die folgende B
 ### 10 TILL READY! (*2x kurze Vibrationen*)
 Sobald die Uhr *10* anzeigt, ändert sich die Nachricht von *TIMEOUT RUNNING*, *30" TO RUNNING"* oder *1' IM RUNNING* auf *10" TILL READY!* und eine Benachrichtigung (eine kurze Vibration) wird gesendet.
 
-## Settings
+## Einstellungen
 Am Handy können die Vibrationsmuster, Benachrichtigungen und andere Funktionen der PlayClock sehr einfach konfiguriert werden. Beachten Sie, dass nur Kommunikation vom Handy zur Pebble-Uhr eingerichtet ist, nicht anders herum! Somit wird die Aktivierung / Deaktivierung der Vibration (Knopf in der Mitte wird im Standby-Modus gedrückt) auf der Pebble überschrieben, sobald die Einstellungen am Handy das nächste mal gespeichert werden.
