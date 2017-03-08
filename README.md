@@ -93,9 +93,9 @@ Startet den 35" Timeout Countdown (neuer Zustand: *30" TO RUNNING*)
 Deaktiviert - kein Ereignis
 #### Knopf in der Mitte lange gedrückt
 Setzt die Uhr zurück in den Standby-Modus (neuer Zustand: *STANDBY*)
-#### DOWN-Button (*1x short vibe*)
+#### Knopf unten (*1x kurze Vibration*)
 Startet 1'-Unterbrechung Countdown (neuer Status: *1' IM RUNNING*)
-#### DOWN-Button pressed long
+#### Knopf unten lange gedrückt
 Deaktiviert - kein Ereignis
 
 Die Uhr kann folgende Zustände haben:
