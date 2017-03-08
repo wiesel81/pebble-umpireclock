@@ -60,7 +60,7 @@ The 60 second countdown works the same way as described for the 65 second countd
 At least up to 3 notifications can be configured via smartphone. The following notification is set by default:
 
 ### 10 TILL READY! (*2x short vibes*)
-When the timer reads *10*, the state message changes from *TIMEOUT RUNNING*, *30" TO RUNNING" or *1' IM RUNNING* to *10" TILLL READY!* and a notification (one short vibration) is sent.
+When the timer reads *10*, the state message changes from *TIMEOUT RUNNING*, *30" TO RUNNING" or *1' IM RUNNING* to *10" TILL READY!* and a notification (one short vibration) is sent.
 
 ## Settings
 On the smartphone the vibration patterns, notifications and other features of the UmpireClock can be configured very easily. Note that there is only communication from the smartphone to the Pebble watch implemented, not the other way! So enabling / disabling the vibration on the Pebble (SELECT-Button pressed in standby mode) is overwritten when the settings on the smartphone are saved the next time (while connected to the Pebble watch, of course).
@@ -74,8 +74,8 @@ Uhr für American Football Schiedsrichter, die am Feld als Umpire für die Zeitn
 
 Mit dieser Watchapp ist es möglich, Timeouts (auch 30-Sekunden-Timeouts) und 1-Minuten-Unterbrechungen nach Scores und zwischen den Vierteln jeder Halbzeit zu stoppen, ohne auf die Uhr zu sehen und Vorgänge am Spielfeld zu verpassen. Die Uhr funktioniert ohne Verbindung zum Handy, trotzdem die meisten Einstellungen wie Benachrichtigungen und Vibrationsmuster via Handy veränderbar sind, wenn eine Verbindung besteht.
 
-Den oberen Knopf zu drücken statet den 65-Sekunden Countdown, um das Intervall vom Beginn des Timeouts bis zur Ballfreigabe zu messen (die übrigen 25 Sekunden sind Aufgabe des PlayClock-Verantwortlichen), was mit einem Vibrationssignal bestätigt wird.
-Den oberen Knopf länger zu drücken führt zu dem selben Ergebnis, allerdings startet der Countdown bei 35 Sekunden, um ein 30-Sekunden-Timeout zu messen.
+Den oberen Knopf zu drücken statet den 65-Sekunden Countdown, um das Intervall vom Beginn des Timeouts bis zur Ballfreigabe zu messen (die übrigen 25 Sekunden sind Aufgabe des PlayClock-Verantwortlichen), was mit einem Vibrationssignal bestätigt wird.  
+Den oberen Knopf länger zu drücken führt zu dem selben Ergebnis, allerdings startet der Countdown bei 35 Sekunden, um ein 30-Sekunden-Timeout zu messen.  
 Das Drücken des unteren Knopfes startet einen 60-Sekunden Countdown, um die 1-Minuten-Unterbrechung vom Zeitpunkt, zu dem der Ball nach einem Score oder am Ende des 1./3. Viertels tot wurde, bis der Ball wieder freizugeben ist, zu messen, was mit einem Vibrationssignal bestätigt wird.
 
 3 Benachrichtigungen können individuell eingestellt werden. Standardmäßig sendet die UmpireClock ein Vibrationssignal wenn 10 Sekunden verbleiben (Teams benachrichtigen) und natürlich wenn der Countdown abgelaufen ist.
@@ -130,8 +130,7 @@ Der 60-Sekunden Countdown funktioniert gleichermaßen wie für den 65-Sekunden C
 Bis zu 3 Benachrichtigungen können am Handy konfiguriert werden. Die folgende Benachrichtigung ist standardmäßig gesetzt:
 
 ### 10 TILL READY! (*2x kurze Vibrationen*)
-Sobald die Uhr *10* anzeigt, ändert sich die Nachricht von *TIMEOUT RUNNING*, *30" TO RUNNING"* oder *1' IM RUNNING* auf *10" TILLL READY!* und eine Benachrichtigung (eine kurze Vibration) wird gesendet.
+Sobald die Uhr *10* anzeigt, ändert sich die Nachricht von *TIMEOUT RUNNING*, *30" TO RUNNING"* oder *1' IM RUNNING* auf *10" TILL READY!* und eine Benachrichtigung (eine kurze Vibration) wird gesendet.
 
 ## Settings
 Am Handy können die Vibrationsmuster, Benachrichtigungen und andere Funktionen der PlayClock sehr einfach konfiguriert werden. Beachten Sie, dass nur Kommunikation vom Handy zur Pebble-Uhr eingerichtet ist, nicht anders herum! Somit wird die Aktivierung / Deaktivierung der Vibration (Knopf in der Mitte wird im Standby-Modus gedrückt) auf der Pebble überschrieben, sobald die Einstellungen am Handy das nächste mal gespeichert werden.
-
