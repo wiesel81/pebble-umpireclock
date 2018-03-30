@@ -118,7 +118,7 @@ module.exports = [
 			{
 				"type": "select",
 				"messageKey": "VibesOnButtonStartsTimeoutDefaultTimerPatternIndex",
-				"label": 'Vibration pattern on pressing a button to start the timout timer (65")',
+				"label": 'Vibration pattern on pressing a button to start the timout timer (60")',
 				"description": "If set to 'Off', a vibration for pressing a button may occur.",
 				"defaultValue": "1",
 				"options": [
@@ -159,7 +159,7 @@ module.exports = [
 			{
 				"type": "select",
 				"messageKey": "VibesOnButtonStartsTimeoutShortTimerPatternIndex",
-				"label": 'Vibration pattern on pressing a button to start the short timeout timer (35")',
+				"label": 'Vibration pattern on pressing a button to start the short timeout timer (30")',
 				"description": "If set to 'Off', a vibration for pressing a button may occur.",
 				"defaultValue": "3",
 				"options": [
@@ -259,13 +259,13 @@ module.exports = [
       {
         "type": "toggle",
         "messageKey": "Notification_1_OnTimeoutDefaultTimerEnabled",
-        "label": 'Enable this notification for timeout timer (65").',
+        "label": 'Enable this notification for timeout timer (60").',
         "defaultValue": true,
       },
       {
         "type": "toggle",
         "messageKey": "Notification_1_OnTimeoutShortTimerEnabled",
-        "label": 'Enable this notification for short timeout timer (35").',
+        "label": 'Enable this notification for short timeout timer (30").',
         "defaultValue": true,
       },
       {
@@ -346,13 +346,13 @@ module.exports = [
       {
         "type": "toggle",
         "messageKey": "Notification_2_OnTimeoutDefaultTimerEnabled",
-        "label": 'Enable this notification for timeout timer (65").',
+        "label": 'Enable this notification for timeout timer (60").',
         "defaultValue": false,
       },
       {
         "type": "toggle",
         "messageKey": "Notification_2_OnTimeoutShortTimerEnabled",
-        "label": 'Enable this notification for short timeout timer (35").',
+        "label": 'Enable this notification for short timeout timer (30").',
         "defaultValue": false,
       },
       {
@@ -432,13 +432,13 @@ module.exports = [
       {
         "type": "toggle",
         "messageKey": "Notification_3_OnTimeoutDefaultTimerEnabled",
-        "label": 'Enable this notification for timeout timer (65").',
+        "label": 'Enable this notification for timeout timer (60").',
         "defaultValue": false,
       },
       {
         "type": "toggle",
         "messageKey": "Notification_3_OnTimeoutShortTimerEnabled",
-        "label": 'Enable this notification for short timeout timer (35").',
+        "label": 'Enable this notification for short timeout timer (30").',
         "defaultValue": false,
       },
       {
