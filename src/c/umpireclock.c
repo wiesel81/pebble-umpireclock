@@ -44,10 +44,10 @@ static void decrementTimer(void) {
 		intTo2DigitText(timer.value, timer.valueDisplay);
 		text_layer_set_text(layerCountdown, timer.valueDisplay);
 		const Notification *notification;
-		if(timer.info->startValue == TIMER_INTERMISSION) {
+		if(timer.info->type == TYPE_INTERMISSION) {
 			notification = getIntermissionNotification(timer.value);
 		} else {
-			notification = getTimeoutNotification(timer.value, timer.info->startValue == TIMER_TIMEOUT_SHORT);
+			notification = getTimeoutNotification(timer.value, timer.info->type == TYPE_TIMEOUT_SHORT);
 		}
 		if(notification != NULL) {
 			vibrate(getVibesNotificationPattern(notification));
@@ -99,9 +99,9 @@ static void onSelectClick(ClickRecognizerRef recognizer, void *context) {
 static void onSelectLongClick(ClickRecognizerRef recognizer, void *context) {
 	vibrate(getOnButtonPressedVibePattern());
 	if(timer.info->isRunning) {
-		if(timer.info->startValue == TIMER_TIMEOUT_SHORT) {
+		if(timer.info->type == TYPE_TIMEOUT_SHORT) {
 			setTimer(&TIMER_STOPPED_TIMEOUT_SHORT);
-		} else if(timer.info->startValue == TIMER_TIMEOUT_DEFAULT) {
+		} else if(timer.info->type == TYPE_TIMEOUT_DEFAULT) {
 			setTimer(&TIMER_STOPPED_TIMEOUT_DEFAULT);
 		} else {
 			setTimer(&TIMER_STOPPED_INTERMISSION);
