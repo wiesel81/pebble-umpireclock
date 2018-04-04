@@ -1,7 +1,7 @@
 # UmpireClock
 by Michael Krenn, American Football official in Austria.
 
-Clock for American Football Umpires working as on-field timekeeper based on the NCAA Rules 2016.
+Clock for American Football Umpires working as on-field timekeeper based on the NCAA Rules July 2017.
 
 With this watchapp it is possible to measure the timeouts (even a 30-second timeout) and 1-minute intermission after scores and between the quarters of each half without taking a look at the watch and missing action. It works offline although most of the settings like notifications and vibration patterns are customizable via phone when connected.
 
@@ -70,7 +70,7 @@ On the smartphone the vibration patterns, notifications and other features of th
 # UmpireClock
 von Michael Krenn, American Football Schiedsrichter in Österreich.
 
-Uhr für American Football Schiedsrichter, die am Feld als Umpire für die Zeitnehmung verantwortlich sind, basierend auf den NCAA Rules 2016.
+Uhr für American Football Schiedsrichter, die am Feld als Umpire für die Zeitnehmung verantwortlich sind, basierend auf den NCAA Rules vom Juli 2017.
 
 Mit dieser Watchapp ist es möglich, Timeouts (auch 30-Sekunden-Timeouts) und 1-Minuten-Unterbrechungen nach Scores und zwischen den Vierteln jeder Halbzeit zu stoppen, ohne auf die Uhr zu sehen und Vorgänge am Spielfeld zu verpassen. Die Uhr funktioniert ohne Verbindung zum Handy, trotzdem die meisten Einstellungen wie Benachrichtigungen und Vibrationsmuster via Handy veränderbar sind, wenn eine Verbindung besteht.
 
